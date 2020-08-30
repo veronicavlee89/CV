@@ -72,17 +72,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade
 - Other cool stuff
 
-#### Achievements & Development
+## Achievements & Development
 
 #### Winners: CUA/RCL Hackathon | Australia (2017)
-*Topic: Helping milennials with money through technology, trust and innovation*
+*Topic: Helping millennials with money through technology, trust and innovation*
 
 - Product: Bank of Mum and Dad (BOMAD). An app that facilitates lending between friends and family.
-- My role in the BOMAD team covered product ideation and ownership, requirements definition, UX design and copywriting.
+- My role in the BOMAD team covered the product ideation and ownership, requirements definition, UX design and copywriting.
 
 #### RCL Sponsored Entrepreneur Program | Australia (2017)
 
-- Won entry into a 12 week entrepreneur program to develop BOMAD. Received mentorship on tech startups, lean development, validating ideas, MVP, funding and growth.
+- Won entry into a 12 week entrepreneur program to develop BOMAD.
+- Received mentorship on tech startups, lean development, validating ideas, MVP, funding and growth.
 
 #### Australian Financial Markets Association | Australia (2011)
 *Financial Markets Program*
