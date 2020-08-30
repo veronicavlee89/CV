@@ -16,7 +16,21 @@ I'm currently studying at Makers Academy, a 16 week intensive bootcamp teaching 
 **10x Future Technologies** (May 2019 to August 2020)  
 Product Owner / Business Analyst
 
-- Any experience relevent to software development
+- Defined requirements in the form of user stories and detailed acceptance criteria for each feature I worked on.
+- Facilitated refinement sessions with developers and testers, breaking down the technical tasks needed to deliver the user story, and understanding how the testers would evidence its completion.
+- Reviewed solution designs to ensure they would meet both functional and non-functional requirements, without over-complicating the technical delivery. This gave me an understanding of asynchronous request processing using Kafka.
+- Participated in all of the sprint ceremonies - daily stand ups, sprint planning, sprint review, and retrospectives.
+- Heavily contributed to the API designs for multiple features, and was responsible for updating the API specifications in Swagger throughout feature development.
+- Produced process flows and technical sequence diagrams in LucidChart.
+- Analysis of unhappy path scenarios, including technical issues, identifying where retry mechanisms or a dead-letter-queue and alert was appropriate.
+- Set up Grafana dashboards - including defining and testing custom Prometheus metrics, writing queries in PromQL and building the dashboards in the Grafana UI.
+
+
+**Projects / Features:**
+- Enhancement of existing microservice endpoints to make them idempotent.
+- Introduction of a JWT token to API requests. As part of this feature I defined what access the different types of user tokens should have on each endpoint I owned, and wrote the auth policies in Rego, the Open Policy Agent's native query language.
+- Payments features including Current Account Switching, Scheduled Payments and Payment Mandates.
+
 
 **Bó (RBS/Natwest)** (July 2018 to May 2019)  
 Business Analyst
